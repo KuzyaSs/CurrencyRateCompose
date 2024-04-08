@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency rate</string>
+    <string name="currency_rate_with_date">Currency rate at %s</string>
+    <string name="currency_rate">%s ₽</string>
+    <string name="connection_failure_exception">Connection failure</string>
+    <string name="try_again">Try again</string>
+</resources>
